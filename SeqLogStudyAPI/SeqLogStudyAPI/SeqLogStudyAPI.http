@@ -1,0 +1,6 @@
+@SeqLogStudyAPI_HostAddress = http://localhost:5117
+
+GET {{SeqLogStudyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
